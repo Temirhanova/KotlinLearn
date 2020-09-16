@@ -6,8 +6,9 @@
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
         <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="WRAPPED" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -16,6 +17,7 @@
             <option value="$PROJECT_DIR$/Problems/Assignments" />
             <option value="$PROJECT_DIR$/Problems/Between two numbers" />
             <option value="$PROJECT_DIR$/Problems/Boxes" />
+            <option value="$PROJECT_DIR$/Problems/Celsius to Fahrenheit" />
             <option value="$PROJECT_DIR$/Problems/Check the sum" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Compare Latin letters" />
@@ -23,8 +25,10 @@
             <option value="$PROJECT_DIR$/Problems/Count the numbers" />
             <option value="$PROJECT_DIR$/Problems/Counting positive numbers" />
             <option value="$PROJECT_DIR$/Problems/Cutting the fraction" />
+            <option value="$PROJECT_DIR$/Problems/Difference between two doubles" />
             <option value="$PROJECT_DIR$/Problems/Digits or not" />
             <option value="$PROJECT_DIR$/Problems/Divide nuts equally between squirrels" />
+            <option value="$PROJECT_DIR$/Problems/Find X" />
             <option value="$PROJECT_DIR$/Problems/First, second, third" />
             <option value="$PROJECT_DIR$/Problems/Fix declarations" />
             <option value="$PROJECT_DIR$/Problems/Fix the program" />
