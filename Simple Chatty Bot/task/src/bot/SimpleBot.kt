@@ -56,6 +56,7 @@ fun test() {
     for (i in 1..1000) {
         val usersAnswer = scanner.nextInt()
         if (usersAnswer != rightAnswer) {
+            
             println("Please, try again.")
         } else {
             return
